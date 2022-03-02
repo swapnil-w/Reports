@@ -1,0 +1,26 @@
+.react-datepicker__input-container ::placeholder {
+  color: white !important;
+}
+
+.react-datepicker__input-container input {
+  color: white !important;
+}
+
+.react-datepicker__input-container input:focus-visible {
+  outline: none !important;
+}
+
+.date_picker {
+  flex: 1;
+  background: #1bc5bd;
+  padding: 8px;
+  border-radius: 5px;
+  border: none;
+  width: 118px;
+  font-size: 14px;
+  line-height: 16px;
+  background-image: url("../../assets/images/SectionHeader/Calendar.svg");
+  background-repeat: no-repeat;
+  background-position-x: 90%;
+  background-position-y: 50%;
+}

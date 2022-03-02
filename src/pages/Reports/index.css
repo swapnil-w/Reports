@@ -1,0 +1,27 @@
+.reports_container {
+  margin-top: 35px;
+}
+
+.no_reports_container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  height: 600px;
+  margin: 0 auto;
+}
+
+.text_center {
+  text-align: center;
+  width: 400px;
+  margin-bottom: 4px;
+}
+
+.no_reports_image {
+  margin-top: 41px;
+}
+
+.report_heading {
+  padding: 18px 0 34px 24px;
+  margin-bottom: 34px;
+}
